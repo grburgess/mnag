@@ -1,4 +1,4 @@
-from mnAfterGlow.lcModel import lcModel
+from mnAfterglow.lcModel import lcModel
 from multiFit.priorGen import *
 
 from numpy import exp, power, zeros, log

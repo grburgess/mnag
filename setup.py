@@ -54,7 +54,7 @@ setup(
 
  #   libraries = [libsynchrotron],
     
-    ext_modules=cythonize(ext_modules),
+#    ext_modules=cythonize(ext_modules),
         
              
     install_requires=[

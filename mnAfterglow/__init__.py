@@ -16,7 +16,7 @@ from models.flare1 import flare1
 from models.flare2 import flare2
 from models.flare3 import flare3
 
-from multifit import *
+from multiFit import *
 
 from models.models import models as mdls
 
